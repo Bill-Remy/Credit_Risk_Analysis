@@ -9,7 +9,7 @@ All six models were run using the same data set and using get_dummies to convert
 
 A summary of the Balanced Accuracy and Classification Report for each model is shown below.
 
-<img src="model_summaries.png">
+<img src="model_summaries1.png">
 
 ### Model Summaries
 
